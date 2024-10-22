@@ -1,5 +1,6 @@
 ### 소스트리 실습
 - README.md 수정
+- test01.md 추가
 
 ### 스타일 구성
 - style.md
